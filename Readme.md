@@ -5,3 +5,4 @@
 4.React Router- {learn react router}
 5.Toggle Switcher- {learn about Contextapi}
 6.Todo Application- {using contextapi}
+7.Todo Application- {using ReduxToolkit}
